@@ -1,1 +1,1 @@
-https://dashboard.CCDDT.com/new?template
+https://github.com/CCDDT/MBN
